@@ -1,0 +1,590 @@
+[
+  {
+    "institution_name":"UC Davis",
+    "year":2019,
+    "total_enrollment":38634,
+    "total_employees":13859,
+    "total_addressable_pop":52493
+  },
+  {
+    "institution_name":"UC Davis",
+    "year":2020,
+    "total_enrollment":39074,
+    "total_employees":13755,
+    "total_addressable_pop":52829
+  },
+  {
+    "institution_name":"UC Davis",
+    "year":2021,
+    "total_enrollment":40050,
+    "total_employees":13670,
+    "total_addressable_pop":53720
+  },
+  {
+    "institution_name":"UC Davis",
+    "year":2022,
+    "total_enrollment":39679,
+    "total_employees":14044,
+    "total_addressable_pop":53723
+  },
+  {
+    "institution_name":"UC Davis",
+    "year":2023,
+    "total_enrollment":39707,
+    "total_employees":14568,
+    "total_addressable_pop":54275
+  },
+  {
+    "institution_name":"UC Davis",
+    "year":2024,
+    "total_enrollment":40065,
+    "total_employees":15029,
+    "total_addressable_pop":55094
+  },
+  {
+    "institution_name":"UC Irvine",
+    "year":2019,
+    "total_enrollment":36908,
+    "total_employees":9201,
+    "total_addressable_pop":46109
+  },
+  {
+    "institution_name":"UC Irvine",
+    "year":2020,
+    "total_enrollment":36303,
+    "total_employees":9330,
+    "total_addressable_pop":45633
+  },
+  {
+    "institution_name":"UC Irvine",
+    "year":2021,
+    "total_enrollment":36505,
+    "total_employees":9245,
+    "total_addressable_pop":45750
+  },
+  {
+    "institution_name":"UC Irvine",
+    "year":2022,
+    "total_enrollment":35937,
+    "total_employees":9587,
+    "total_addressable_pop":45524
+  },
+  {
+    "institution_name":"UC Irvine",
+    "year":2023,
+    "total_enrollment":36582,
+    "total_employees":10031,
+    "total_addressable_pop":46613
+  },
+  {
+    "institution_name":"UC Irvine",
+    "year":2024,
+    "total_enrollment":37297,
+    "total_employees":10206,
+    "total_addressable_pop":47503
+  },
+  {
+    "institution_name":"UCLA",
+    "year":2019,
+    "total_enrollment":44371,
+    "total_employees":25548,
+    "total_addressable_pop":69919
+  },
+  {
+    "institution_name":"UCLA",
+    "year":2020,
+    "total_enrollment":44589,
+    "total_employees":25256,
+    "total_addressable_pop":69845
+  },
+  {
+    "institution_name":"UCLA",
+    "year":2021,
+    "total_enrollment":46116,
+    "total_employees":25749,
+    "total_addressable_pop":71865
+  },
+  {
+    "institution_name":"UCLA",
+    "year":2022,
+    "total_enrollment":46430,
+    "total_employees":27016,
+    "total_addressable_pop":73446
+  },
+  {
+    "institution_name":"UCLA",
+    "year":2023,
+    "total_enrollment":46678,
+    "total_employees":28794,
+    "total_addressable_pop":75472
+  },
+  {
+    "institution_name":"UCLA",
+    "year":2024,
+    "total_enrollment":47335,
+    "total_employees":30136,
+    "total_addressable_pop":77471
+  },
+  {
+    "institution_name":"UC San Diego",
+    "year":2019,
+    "total_enrollment":38736,
+    "total_employees":16934,
+    "total_addressable_pop":55670
+  },
+  {
+    "institution_name":"UC San Diego",
+    "year":2020,
+    "total_enrollment":39576,
+    "total_employees":16266,
+    "total_addressable_pop":55842
+  },
+  {
+    "institution_name":"UC San Diego",
+    "year":2021,
+    "total_enrollment":41885,
+    "total_employees":16825,
+    "total_addressable_pop":58710
+  },
+  {
+    "institution_name":"UC San Diego",
+    "year":2022,
+    "total_enrollment":42006,
+    "total_employees":17631,
+    "total_addressable_pop":59637
+  },
+  {
+    "institution_name":"UC San Diego",
+    "year":2023,
+    "total_enrollment":42376,
+    "total_employees":18717,
+    "total_addressable_pop":61093
+  },
+  {
+    "institution_name":"UC San Diego",
+    "year":2024,
+    "total_enrollment":44256,
+    "total_employees":19504,
+    "total_addressable_pop":63760
+  },
+  {
+    "institution_name":"Chabot College",
+    "year":2019,
+    "total_enrollment":13522,
+    "total_employees":683,
+    "total_addressable_pop":14205
+  },
+  {
+    "institution_name":"Chabot College",
+    "year":2020,
+    "total_enrollment":11922,
+    "total_employees":704,
+    "total_addressable_pop":12626
+  },
+  {
+    "institution_name":"Chabot College",
+    "year":2021,
+    "total_enrollment":11071,
+    "total_employees":704,
+    "total_addressable_pop":11775
+  },
+  {
+    "institution_name":"Chabot College",
+    "year":2022,
+    "total_enrollment":10736,
+    "total_employees":674,
+    "total_addressable_pop":11410
+  },
+  {
+    "institution_name":"Chabot College",
+    "year":2023,
+    "total_enrollment":12218,
+    "total_employees":711,
+    "total_addressable_pop":12929
+  },
+  {
+    "institution_name":"Chabot College",
+    "year":2024,
+    "total_enrollment":12842,
+    "total_employees":764,
+    "total_addressable_pop":13606
+  },
+  {
+    "institution_name":"Loyola Marymount University",
+    "year":2019,
+    "total_enrollment":9822,
+    "total_employees":2554,
+    "total_addressable_pop":12376
+  },
+  {
+    "institution_name":"Loyola Marymount University",
+    "year":2020,
+    "total_enrollment":9686,
+    "total_employees":2192,
+    "total_addressable_pop":11878
+  },
+  {
+    "institution_name":"Loyola Marymount University",
+    "year":2021,
+    "total_enrollment":10184,
+    "total_employees":2369,
+    "total_addressable_pop":12553
+  },
+  {
+    "institution_name":"Loyola Marymount University",
+    "year":2022,
+    "total_enrollment":10165,
+    "total_employees":2473,
+    "total_addressable_pop":12638
+  },
+  {
+    "institution_name":"Loyola Marymount University",
+    "year":2023,
+    "total_enrollment":10256,
+    "total_employees":2599,
+    "total_addressable_pop":12855
+  },
+  {
+    "institution_name":"Loyola Marymount University",
+    "year":2024,
+    "total_enrollment":10179,
+    "total_employees":2639,
+    "total_addressable_pop":12818
+  },
+  {
+    "institution_name":"Mount Saint Mary's University",
+    "year":2019,
+    "total_enrollment":2855,
+    "total_employees":759,
+    "total_addressable_pop":3614
+  },
+  {
+    "institution_name":"Mount Saint Mary's University",
+    "year":2020,
+    "total_enrollment":2745,
+    "total_employees":713,
+    "total_addressable_pop":3458
+  },
+  {
+    "institution_name":"Mount Saint Mary's University",
+    "year":2021,
+    "total_enrollment":2625,
+    "total_employees":694,
+    "total_addressable_pop":3319
+  },
+  {
+    "institution_name":"Mount Saint Mary's University",
+    "year":2022,
+    "total_enrollment":2435,
+    "total_employees":719,
+    "total_addressable_pop":3154
+  },
+  {
+    "institution_name":"Mount Saint Mary's University",
+    "year":2023,
+    "total_enrollment":2308,
+    "total_employees":723,
+    "total_addressable_pop":3031
+  },
+  {
+    "institution_name":"Mount Saint Mary's University",
+    "year":2024,
+    "total_enrollment":2312,
+    "total_employees":714,
+    "total_addressable_pop":3026
+  },
+  {
+    "institution_name":"Pepperdine University",
+    "year":2019,
+    "total_enrollment":8824,
+    "total_employees":2084,
+    "total_addressable_pop":10908
+  },
+  {
+    "institution_name":"Pepperdine University",
+    "year":2020,
+    "total_enrollment":9554,
+    "total_employees":2072,
+    "total_addressable_pop":11626
+  },
+  {
+    "institution_name":"Pepperdine University",
+    "year":2021,
+    "total_enrollment":10446,
+    "total_employees":2131,
+    "total_addressable_pop":12577
+  },
+  {
+    "institution_name":"Pepperdine University",
+    "year":2022,
+    "total_enrollment":10030,
+    "total_employees":2190,
+    "total_addressable_pop":12220
+  },
+  {
+    "institution_name":"Pepperdine University",
+    "year":2023,
+    "total_enrollment":9545,
+    "total_employees":2197,
+    "total_addressable_pop":11742
+  },
+  {
+    "institution_name":"Pepperdine University",
+    "year":2024,
+    "total_enrollment":8976,
+    "total_employees":2165,
+    "total_addressable_pop":11141
+  },
+  {
+    "institution_name":"Santa Clara University",
+    "year":2019,
+    "total_enrollment":8669,
+    "total_employees":1925,
+    "total_addressable_pop":10594
+  },
+  {
+    "institution_name":"Santa Clara University",
+    "year":2020,
+    "total_enrollment":8616,
+    "total_employees":1843,
+    "total_addressable_pop":10459
+  },
+  {
+    "institution_name":"Santa Clara University",
+    "year":2021,
+    "total_enrollment":8918,
+    "total_employees":1843,
+    "total_addressable_pop":10761
+  },
+  {
+    "institution_name":"Santa Clara University",
+    "year":2022,
+    "total_enrollment":9178,
+    "total_employees":1960,
+    "total_addressable_pop":11138
+  },
+  {
+    "institution_name":"Santa Clara University",
+    "year":2023,
+    "total_enrollment":9340,
+    "total_employees":2023,
+    "total_addressable_pop":11363
+  },
+  {
+    "institution_name":"Santa Clara University",
+    "year":2024,
+    "total_enrollment":9728,
+    "total_employees":2103,
+    "total_addressable_pop":11831
+  },
+  {
+    "institution_name":"Saint Mary's College of CA",
+    "year":2019,
+    "total_enrollment":3692,
+    "total_employees":1399,
+    "total_addressable_pop":5091
+  },
+  {
+    "institution_name":"Saint Mary's College of CA",
+    "year":2020,
+    "total_enrollment":3439,
+    "total_employees":1216,
+    "total_addressable_pop":4655
+  },
+  {
+    "institution_name":"Saint Mary's College of CA",
+    "year":2021,
+    "total_enrollment":3165,
+    "total_employees":1353,
+    "total_addressable_pop":4518
+  },
+  {
+    "institution_name":"Saint Mary's College of CA",
+    "year":2022,
+    "total_enrollment":2765,
+    "total_employees":725,
+    "total_addressable_pop":3490
+  },
+  {
+    "institution_name":"Saint Mary's College of CA",
+    "year":2023,
+    "total_enrollment":2775,
+    "total_employees":718,
+    "total_addressable_pop":3493
+  },
+  {
+    "institution_name":"Saint Mary's College of CA",
+    "year":2024,
+    "total_enrollment":2734,
+    "total_employees":735,
+    "total_addressable_pop":3469
+  },
+  {
+    "institution_name":"Georgia Tech",
+    "year":2019,
+    "total_enrollment":36302,
+    "total_employees":8182,
+    "total_addressable_pop":44484
+  },
+  {
+    "institution_name":"Georgia Tech",
+    "year":2020,
+    "total_enrollment":39771,
+    "total_employees":8607,
+    "total_addressable_pop":48378
+  },
+  {
+    "institution_name":"Georgia Tech",
+    "year":2021,
+    "total_enrollment":43843,
+    "total_employees":9067,
+    "total_addressable_pop":52910
+  },
+  {
+    "institution_name":"Georgia Tech",
+    "year":2022,
+    "total_enrollment":45296,
+    "total_employees":9627,
+    "total_addressable_pop":54923
+  },
+  {
+    "institution_name":"Georgia Tech",
+    "year":2023,
+    "total_enrollment":47946,
+    "total_employees":10452,
+    "total_addressable_pop":58398
+  },
+  {
+    "institution_name":"Georgia Tech",
+    "year":2024,
+    "total_enrollment":53363,
+    "total_employees":10954,
+    "total_addressable_pop":64317
+  },
+  {
+    "institution_name":"Abilene Christian University",
+    "year":2019,
+    "total_enrollment":5292,
+    "total_employees":981,
+    "total_addressable_pop":6273
+  },
+  {
+    "institution_name":"Abilene Christian University",
+    "year":2020,
+    "total_enrollment":5291,
+    "total_employees":1044,
+    "total_addressable_pop":6335
+  },
+  {
+    "institution_name":"Abilene Christian University",
+    "year":2021,
+    "total_enrollment":4912,
+    "total_employees":1058,
+    "total_addressable_pop":5970
+  },
+  {
+    "institution_name":"Abilene Christian University",
+    "year":2022,
+    "total_enrollment":5079,
+    "total_employees":1133,
+    "total_addressable_pop":6212
+  },
+  {
+    "institution_name":"Abilene Christian University",
+    "year":2023,
+    "total_enrollment":5114,
+    "total_employees":1134,
+    "total_addressable_pop":6248
+  },
+  {
+    "institution_name":"Abilene Christian University",
+    "year":2024,
+    "total_enrollment":5219,
+    "total_employees":1205,
+    "total_addressable_pop":6424
+  },
+  {
+    "institution_name":"UT Arlington",
+    "year":2019,
+    "total_enrollment":48635,
+    "total_employees":4062,
+    "total_addressable_pop":52697
+  },
+  {
+    "institution_name":"UT Arlington",
+    "year":2020,
+    "total_enrollment":48072,
+    "total_employees":3972,
+    "total_addressable_pop":52044
+  },
+  {
+    "institution_name":"UT Arlington",
+    "year":2021,
+    "total_enrollment":45949,
+    "total_employees":4095,
+    "total_addressable_pop":50044
+  },
+  {
+    "institution_name":"UT Arlington",
+    "year":2022,
+    "total_enrollment":43946,
+    "total_employees":4296,
+    "total_addressable_pop":48242
+  },
+  {
+    "institution_name":"UT Arlington",
+    "year":2023,
+    "total_enrollment":43992,
+    "total_employees":4541,
+    "total_addressable_pop":48533
+  },
+  {
+    "institution_name":"UT Arlington",
+    "year":2024,
+    "total_enrollment":44956,
+    "total_employees":4658,
+    "total_addressable_pop":49614
+  },
+  {
+    "institution_name":"Las Positas College",
+    "year":2019,
+    "total_enrollment":8706,
+    "total_employees":493,
+    "total_addressable_pop":9199
+  },
+  {
+    "institution_name":"Las Positas College",
+    "year":2020,
+    "total_enrollment":8005,
+    "total_employees":483,
+    "total_addressable_pop":8488
+  },
+  {
+    "institution_name":"Las Positas College",
+    "year":2021,
+    "total_enrollment":7125,
+    "total_employees":478,
+    "total_addressable_pop":7603
+  },
+  {
+    "institution_name":"Las Positas College",
+    "year":2022,
+    "total_enrollment":6724,
+    "total_employees":473,
+    "total_addressable_pop":7197
+  },
+  {
+    "institution_name":"Las Positas College",
+    "year":2023,
+    "total_enrollment":7448,
+    "total_employees":475,
+    "total_addressable_pop":7923
+  },
+  {
+    "institution_name":"Las Positas College",
+    "year":2024,
+    "total_enrollment":8103,
+    "total_employees":494,
+    "total_addressable_pop":8597
+  }
+]

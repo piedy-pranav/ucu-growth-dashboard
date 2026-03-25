@@ -1,0 +1,85 @@
+institution_name,year,total_enrollment,total_employees,total_addressable_pop
+UC Davis,2019,38634,13859,52493
+UC Davis,2020,39074,13755,52829
+UC Davis,2021,40050,13670,53720
+UC Davis,2022,39679,14044,53723
+UC Davis,2023,39707,14568,54275
+UC Davis,2024,40065,15029,55094
+UC Irvine,2019,36908,9201,46109
+UC Irvine,2020,36303,9330,45633
+UC Irvine,2021,36505,9245,45750
+UC Irvine,2022,35937,9587,45524
+UC Irvine,2023,36582,10031,46613
+UC Irvine,2024,37297,10206,47503
+UCLA,2019,44371,25548,69919
+UCLA,2020,44589,25256,69845
+UCLA,2021,46116,25749,71865
+UCLA,2022,46430,27016,73446
+UCLA,2023,46678,28794,75472
+UCLA,2024,47335,30136,77471
+UC San Diego,2019,38736,16934,55670
+UC San Diego,2020,39576,16266,55842
+UC San Diego,2021,41885,16825,58710
+UC San Diego,2022,42006,17631,59637
+UC San Diego,2023,42376,18717,61093
+UC San Diego,2024,44256,19504,63760
+Chabot College,2019,13522,683,14205
+Chabot College,2020,11922,704,12626
+Chabot College,2021,11071,704,11775
+Chabot College,2022,10736,674,11410
+Chabot College,2023,12218,711,12929
+Chabot College,2024,12842,764,13606
+Loyola Marymount University,2019,9822,2554,12376
+Loyola Marymount University,2020,9686,2192,11878
+Loyola Marymount University,2021,10184,2369,12553
+Loyola Marymount University,2022,10165,2473,12638
+Loyola Marymount University,2023,10256,2599,12855
+Loyola Marymount University,2024,10179,2639,12818
+Mount Saint Mary's University,2019,2855,759,3614
+Mount Saint Mary's University,2020,2745,713,3458
+Mount Saint Mary's University,2021,2625,694,3319
+Mount Saint Mary's University,2022,2435,719,3154
+Mount Saint Mary's University,2023,2308,723,3031
+Mount Saint Mary's University,2024,2312,714,3026
+Pepperdine University,2019,8824,2084,10908
+Pepperdine University,2020,9554,2072,11626
+Pepperdine University,2021,10446,2131,12577
+Pepperdine University,2022,10030,2190,12220
+Pepperdine University,2023,9545,2197,11742
+Pepperdine University,2024,8976,2165,11141
+Santa Clara University,2019,8669,1925,10594
+Santa Clara University,2020,8616,1843,10459
+Santa Clara University,2021,8918,1843,10761
+Santa Clara University,2022,9178,1960,11138
+Santa Clara University,2023,9340,2023,11363
+Santa Clara University,2024,9728,2103,11831
+Saint Mary's College of CA,2019,3692,1399,5091
+Saint Mary's College of CA,2020,3439,1216,4655
+Saint Mary's College of CA,2021,3165,1353,4518
+Saint Mary's College of CA,2022,2765,725,3490
+Saint Mary's College of CA,2023,2775,718,3493
+Saint Mary's College of CA,2024,2734,735,3469
+Georgia Tech,2019,36302,8182,44484
+Georgia Tech,2020,39771,8607,48378
+Georgia Tech,2021,43843,9067,52910
+Georgia Tech,2022,45296,9627,54923
+Georgia Tech,2023,47946,10452,58398
+Georgia Tech,2024,53363,10954,64317
+Abilene Christian University,2019,5292,981,6273
+Abilene Christian University,2020,5291,1044,6335
+Abilene Christian University,2021,4912,1058,5970
+Abilene Christian University,2022,5079,1133,6212
+Abilene Christian University,2023,5114,1134,6248
+Abilene Christian University,2024,5219,1205,6424
+UT Arlington,2019,48635,4062,52697
+UT Arlington,2020,48072,3972,52044
+UT Arlington,2021,45949,4095,50044
+UT Arlington,2022,43946,4296,48242
+UT Arlington,2023,43992,4541,48533
+UT Arlington,2024,44956,4658,49614
+Las Positas College,2019,8706,493,9199
+Las Positas College,2020,8005,483,8488
+Las Positas College,2021,7125,478,7603
+Las Positas College,2022,6724,473,7197
+Las Positas College,2023,7448,475,7923
+Las Positas College,2024,8103,494,8597
