@@ -2,7 +2,7 @@
 
 An interactive data dashboard analyzing University Credit Union's growth opportunities across its 14+ university partner schools.
 
-**Live Demo:** [https://pranavpiedy.github.io/ucu-growth-dashboard](https://pranavpiedy.github.io/ucu-growth-dashboard)
+**Live Demo:** [https://piedy-pranav.github.io/ucu-growth-dashboard](https://piedy-pranav.github.io/ucu-growth-dashboard)
 
 ## Data Sources
 
